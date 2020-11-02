@@ -1,0 +1,13 @@
+// Mario
+// Criação:		14 Fev 2013
+// Atualização:	14 Fev 2013
+// Descrição:   Posição das plataformas e obstáculos do nível 2
+//
+//
+//	posX	posY	platType
+	-500	200		9
+	0493	200		9
+	1486	200		9
+	0000	584		8
+	0636	584		8
+	-100	503		7
